@@ -1,2 +1,0 @@
-# angular-reddit-production
-production
